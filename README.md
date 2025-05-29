@@ -2,62 +2,64 @@
 
 Welcome to my GitHub profile!
 
-I'm a cybersecurity enthusiast with a growing focus on Blue Team operations, including log analysis, intrusion detection, and network monitoring. My learning journey is hands on, and i document every project here from packet tracing and log parsing to Linux security hardening.
+I'm a passionate **Blue Team cybersecurity enthusiast** with a growing focus on SOC analysis, including log monitoring, network defense, and endpoint security. My journey is focused on building **practical, hands-on projects** to understand how attackers operate — and how to stop them.
 
 ---
 
-## 💼 What I'm Working On
+## 🔧 What I'm Working On
 
-- 🔒 **Blue Team Projects**  
-  Practical defensive cybersecurity tasks using tools like `auditd`, `chkrootkit`, and `AIDE` on Linux.
-
-- 📊 **Log & Event Monitoring**  
-  Collecting and analyzing logs using `Splunk`, `Wireshark`, and native Linux tools (`auth.log`, `audit.log`).
-
-- 🖥️ **Network Analysis**  
-  Simulating networks and exploring vulnerabilities via `Cisco Packet Tracer` and `Wireshark`.
+- 📊 **Log Analysis Projects** using Splunk, Windows Event Logs, and Sysmon
+- 📡 **Network Traffic Analysis** with Wireshark and Packet Tracer
+- 🐧 **Linux-based Security Monitoring** using tools like `auditd`, AIDE, and file integrity systems
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🧠 Current Learning Focus
 
-- `Kali Linux`, `Ubuntu`, `VirtualBox`
-- `Wireshark`, `Splunk`, `ELK Stack`
-- `auditd`, `chkrootkit`, `AIDE`
-- `Python (beginner level)`
-- Git & GitHub for documentation and collaboration
-
----
-
-## 📂 Featured Repositories
-
-- [Linux Cybersecurity Projects](https://github.com/Femijay-code/linux-cybersecurity-projects)  
-  System monitoring, auditing, and intrusion detection on Linux.
-
-- [Splunk Log Analysis](https://github.com/Femijay-code/splunk-log-analysis)  
-  Searching and visualizing security logs with SPL and dashboards.
-
-- [Wireshark Network Analysis](https://github.com/Femijay-code/wireshark-network-analysis)  
-  Traffic inspection, TCP/IP dissection, and packet analysis.
+- SIEM analysis with Splunk and Elastic Stack (ELK)
+- Host-based intrusion detection using Sysmon and Sigma rules
+- Network monitoring with Wireshark and Zeek
+- Log forensics in Windows and Linux environments
 
 ---
 
-## ✍️ What I Share
+## 🛠 Tools & Technologies
 
-I believe in learning out loud. I post weekly cybersecurity projects and documentation to:
-- Track my growth
-- Educate others on cyber hygiene
-- Showcase practical, entry-level Blue Team work
+Here are some tools and platforms I work with or am currently learning:
+
+| Category                  | Tools & Tech                                         |
+|---------------------------|------------------------------------------------------|
+| Operating Systems         | Windows 10/11, Kali Linux, Ubuntu (VirtualBox/VMs)  |
+| Blue Team Tools           | Sysmon, Event Viewer, Wireshark, auditd, AIDE       |
+| Network & Packet Analysis | Cisco Packet Tracer, Wireshark, Zeek                |
+| SIEM & Log Analysis       | Splunk, ELK Stack (Elastic, Logstash, Kibana)       |
+| Programming & Scripting   | Python (Beginner), Bash (Basic)                     |
+| Cyber Labs & Sandboxes    | TryHackMe, Hack The Box, Malware Traffic Analysis   |
+| Other Tools               | VirtualBox, GitHub, Markdown, Git                   |
 
 ---
 
-## 📫 Let's Connect
+## 📂 My Cybersecurity Project Repositories
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/francis-olorunfemi-jacob)  
-- 📧 Email: `femijay123@gmail.com`  
+Here are my main public repos, each focusing on different areas of Blue Teaming:
+
+- 🔹 [**Wireshark Network Analysis**](https://github.com/Femijay-code/wireshark-network-analysis) – Practical packet capture analysis projects
+- 🔹 [**Cisco Packet Tracer Projects**](https://github.com/Femijay-code/cisco-packet-tracer-projects) – Network simulation and VLAN configuration exercises
+- 🔹 [**Splunk Log Analysis**](https://github.com/Femijay-code/splunk-log-analysis) – Real-world SIEM analysis projects with SPL queries
+- 🔹 [**Windows Log Analysis Projects**](https://github.com/Femijay-code/windows-log-analysis-projects) – Sysmon, Event ID monitoring, and Blue Team response
+- 🔹 [**Linux Cybersecurity Projects**](https://github.com/Femijay-code/linux-cybersecurity-projects) – Monitoring, file integrity, and user activity tracking with Linux tools
 
 ---
 
-Thanks for stopping by!  
+## 📬 Connect with Me
+
+I’m always open to connecting with mentors, collaborators, or cybersecurity professionals.
+
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/francis-olorunfemi-jacob)  
+- 📧 Email: `femijay123@gmail.com` 
+- 🌐 Portfolio Website:
+
+---
+
+> Thanks for stopping by!  
 _Always learning. Always sharing._
-
